@@ -1,2 +1,2 @@
 # recipes
-A recipe website to practice HTML skills.
+A recipe website to practice HTML and CSS skills.
